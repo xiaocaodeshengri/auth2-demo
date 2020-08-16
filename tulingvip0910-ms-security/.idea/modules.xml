@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sso-api-gateway/sso-api-gateway.iml" filepath="$PROJECT_DIR$/sso-api-gateway/sso-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-api-gateway-jwt/sso-api-gateway-jwt.iml" filepath="$PROJECT_DIR$/sso-api-gateway-jwt/sso-api-gateway-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-auth-code-jwt-server/sso-auth-code-jwt-server.iml" filepath="$PROJECT_DIR$/sso-auth-code-jwt-server/sso-auth-code-jwt-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-auth-code-server/sso-auth-code-server.iml" filepath="$PROJECT_DIR$/sso-auth-code-server/sso-auth-code-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-auth-server/sso-auth-server.iml" filepath="$PROJECT_DIR$/sso-auth-server/sso-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-order-server/sso-order-server.iml" filepath="$PROJECT_DIR$/sso-order-server/sso-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-portal-code/sso-portal-code.iml" filepath="$PROJECT_DIR$/sso-portal-code/sso-portal-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-portal-password/sso-portal-password.iml" filepath="$PROJECT_DIR$/sso-portal-password/sso-portal-password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-product-jwt-server/sso-product-jwt-server.iml" filepath="$PROJECT_DIR$/sso-product-jwt-server/sso-product-jwt-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-product-server/sso-product-server.iml" filepath="$PROJECT_DIR$/sso-product-server/sso-product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingvip-ms-alibaba-dao/tulingvip-ms-alibaba-dao.iml" filepath="$PROJECT_DIR$/tulingvip-ms-alibaba-dao/tulingvip-ms-alibaba-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order/tulingvip09-ms-alibaba-order.iml" filepath="$PROJECT_DIR$/tulingvip09-ms-alibaba-order/tulingvip09-ms-alibaba-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order-gateway/tulingvip09-ms-alibaba-order-gateway.iml" filepath="$PROJECT_DIR$/tulingvip09-ms-alibaba-order-gateway/tulingvip09-ms-alibaba-order-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-product/tulingvip09-ms-alibaba-product.iml" filepath="$PROJECT_DIR$/tulingvip09-ms-alibaba-product/tulingvip09-ms-alibaba-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/tulingvip09-ms-auth-server.iml" filepath="$PROJECT_DIR$/tulingvip09-ms-auth-server/tulingvip09-ms-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway/tulingvip09-ms-auth-server-gateway.iml" filepath="$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway/tulingvip09-ms-auth-server-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/tulingvip09-ms-cloud-gateway.iml" filepath="$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/tulingvip09-ms-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tulingvip0910-ms-security.iml" filepath="$PROJECT_DIR$/tulingvip0910-ms-security.iml" />
+    </modules>
+  </component>
+</project>

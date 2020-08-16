@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-api-gateway-jwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-api-gateway-jwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-auth-code-jwt-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-auth-code-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-auth-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-portal-code" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-portal-password" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-product-jwt-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso-product-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip-ms-alibaba-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip09-ms-auth-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway" charset="UTF-8" />
+  </component>
+</project>

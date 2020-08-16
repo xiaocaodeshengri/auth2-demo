@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52435de3-d271-4d42-aee5-3c93d2ab44e2" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tulingvip09-ms-auth-server/target/" />
+    <ignored path="$PROJECT_DIR$/tulingvip09-ms-alibaba-order/target/" />
+    <ignored path="$PROJECT_DIR$/tulingvip-ms-alibaba-dao/target/" />
+    <ignored path="$PROJECT_DIR$/tulingvip09-ms-alibaba-product/target/" />
+    <ignored path="$PROJECT_DIR$/tulingvip08-ms-cloud-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/tulingvip09-ms-alibaba-order-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/sso-portal-password/target/" />
+    <ignored path="$PROJECT_DIR$/sso-auth-server/target/" />
+    <ignored path="$PROJECT_DIR$/sso-api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/sso-product-server/target/" />
+    <ignored path="$PROJECT_DIR$/sso-order-server/target/" />
+    <ignored path="$PROJECT_DIR$/sso-auth-code-server/target/" />
+    <ignored path="$PROJECT_DIR$/sso-portal-code/target/" />
+    <ignored path="$PROJECT_DIR$/sso-auth-code-jwt-server/target/" />
+    <ignored path="$PROJECT_DIR$/sso-api-gateway-jwt/target/" />
+    <ignored path="$PROJECT_DIR$/sso-product-jwt-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/filter/AuthenticationFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-629">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/GateWayException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/SystemErrorType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/GateWayExceptionHandlerAdvice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1551">
+              <caret line="53" column="56" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/ExceptionAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="61" column="56" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/CustomErrorWebExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="18" column="83" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/Result.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1914">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/ErrorType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/config/RibbonConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/filter/AuthorizationFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-200">
+              <caret line="73" column="33" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Failed to find access</find>
+      <find>OAuth2AuthenticationProcessingFilter</find>
+      <find>Web</find>
+      <find>503</find>
+      <find>success</find>
+      <find>AutoServiceRegistrationProperties</find>
+      <find>RedirectMismatchException, Redirect URI mismatch</find>
+      <find>Redirect URI mismatch.</find>
+      <find>ErrorWebExceptionHandler</find>
+      <find>spring-boot-starter-webflux</find>
+      <find>Flux</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sso-portal-password/src/main/resources/templates/product_detail.html" />
+        <option value="$PROJECT_DIR$/sso-auth-server/src/main/java/com/tuling/config/indb/AuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/sso-auth-server/src/main/java/com/tuling/config/indb/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/sso-auth-server/src/main/java/com/tuling/config/role/UserController.java" />
+        <option value="$PROJECT_DIR$/sso-portal-code/src/main/java/com/tuling/interceptor/CookieLoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/sso-portal-code/src/main/java/com/tuling/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/sso-portal-code/src/main/resources/templates/product_detail.html" />
+        <option value="$PROJECT_DIR$/sso-auth-code-server/src/main/java/com/tuling/config/indb/AuthServerInDbConfig.java" />
+        <option value="$PROJECT_DIR$/sso-auth-code-jwt-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-auth-code-jwt-server/src/main/java/com/tuling/SsoAuthCodeJwtServer.java" />
+        <option value="$PROJECT_DIR$/sso-auth-code-jwt-server/src/main/java/com/tuling/config/indb/TulingTokenEnhancer.java" />
+        <option value="D:/m2/repository/io/netty/netty-transport/4.1.36.Final/netty-transport-4.1.36.Final.jar!/io/netty/channel/socket/nio/NioSocketChannel.class" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/config/RibbonConfig.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/SsoApiGateWayJwt.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/config/GateWayResourceConfig.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/compent/util/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/sso-auth-code-jwt-server/src/main/java/com/tuling/config/indb/AuthServerInDbConfig.java" />
+        <option value="$PROJECT_DIR$/sso-auth-code-jwt-server/src/main/java/com/tuling/config/controller/AuthLogin.java" />
+        <option value="$PROJECT_DIR$/sso-product-jwt-server/src/main/java/com/tuling/config/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/sso-product-jwt-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/compent/filter/TokenValidateFilter.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/compent/filter/AuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/compent/common/MDA.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/compent/exception/GateWayExceptionHandlerAdvice.java" />
+        <option value="$PROJECT_DIR$/sso-product-jwt-server/src/main/java/com/tuling/SsoProductServerJwtApp.java" />
+        <option value="$PROJECT_DIR$/sso-product-jwt-server/src/main/java/com/tuling/config/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/sso-product-jwt-server/src/main/java/com/tuling/config/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/sso-product-jwt-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sso-product-jwt-server/src/main/java/com/tuling/controller/ProductInfoController.java" />
+        <option value="$PROJECT_DIR$/sso-portal-code/src/main/java/com/tuling/entity/TokenInfo.java" />
+        <option value="$PROJECT_DIR$/sso-auth-code-server/src/main/java/com/tuling/config/controller/AuthLogin.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sso-api-gateway/src/main/java/com/tuling/config/RibbonConfig.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway/src/main/java/com/tuling/compent/filter/AuthorizationFilter.java" />
+        <option value="$PROJECT_DIR$/sso-auth-server/src/main/java/com/tuling/config/indb/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/src/main/java/com/tuling/compent/filter/AuthorizationFilter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-auth-code-jwt-server/src/main/java/com/tuling/config/indb/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/TulingUserDetailService.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-alibaba-order/src/main/java/com/tuling/controller/OrderInfoController.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/indb/JsonSerializationStrategy.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-alibaba-order/src/main/java/com/tuling/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-alibaba-order/src/main/java/com/tuling/config/TulingUserDetailService.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-alibaba-order/src/main/java/com/tuling/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/ExceptionAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/indb/ModifyRedisTokenStoreBpp.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/inmemory/TulingAuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/indb/AuthServerInDbConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/devtools/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tulingvip0910-ms-security" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tulingvip0910-ms-security" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tulingvip09-ms-auth-server-gateway" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tulingvip09-ms-auth-server-gateway" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tulingvip09-ms-alibaba-product" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tulingvip09-ms-alibaba-product" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tulingvip09-ms-alibaba-order" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tulingvip09-ms-alibaba-order" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="576" />
+    <option name="y" value="180" />
+    <option name="width" value="1280" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tulingvip0910-ms-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingvip0910-ms-security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingvip0910-ms-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingvip0910-ms-security" type="462c0819:PsiDirectoryNode" />
+              <item name="tulingvip09-ms-cloud-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingvip0910-ms-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingvip0910-ms-security" type="462c0819:PsiDirectoryNode" />
+              <item name="tulingvip09-ms-cloud-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingvip0910-ms-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingvip0910-ms-security" type="462c0819:PsiDirectoryNode" />
+              <item name="tulingvip09-ms-cloud-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingvip0910-ms-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingvip0910-ms-security" type="462c0819:PsiDirectoryNode" />
+              <item name="tulingvip09-ms-cloud-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingvip0910-ms-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingvip0910-ms-security" type="462c0819:PsiDirectoryNode" />
+              <item name="tulingvip09-ms-cloud-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingvip0910-ms-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingvip0910-ms-security" type="462c0819:PsiDirectoryNode" />
+              <item name="tulingvip09-ms-cloud-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling" type="462c0819:PsiDirectoryNode" />
+              <item name="compent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tulingvip0910-ms-security" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tulingvip0910-ms-security" type="462c0819:PsiDirectoryNode" />
+              <item name="tulingvip09-ms-cloud-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling" type="462c0819:PsiDirectoryNode" />
+              <item name="compent" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work_space\idea_space\tulingvip0910-ms-security\sso-auth-code-jwt-server\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tuling.config" />
+      <recent name="com.tuling.controller" />
+      <recent name="com.tuling.config.controller" />
+      <recent name="com.tuling.config.constant" />
+      <recent name="com.tuling.config.indb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work_space\idea_space\tulingvip0910-ms-security" />
+      <recent name="D:\work_space\idea_space\tulingvip0910-ms-security\sso-product-jwt-server\src\main\java\com\tuling\config\config" />
+      <recent name="D:\work_space\idea_space\tulingvip0910-ms-security\sso-auth-code-jwt-server\src\main\resources" />
+      <recent name="D:\work_space\idea_space\tulingvip0910-ms-security\sso-auth-code-jwt-server\src\main\resources\templates" />
+      <recent name="D:\work_space\idea_space\tulingvip0910-ms-security\sso-portal-code\src\main\resources\static\assets\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Tulingvip09MsAuthServerApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuling.OrderApplication" />
+      <module name="tulingvip09-ms-alibaba-order-gateway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuling.OrderApplication" />
+      <module name="sso-order-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoApiGateWayJwt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuling.SsoApiGateWayJwt" />
+      <module name="sso-api-gateway-jwt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoAuthCodeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuling.SsoAuthCodeServer" />
+      <module name="sso-auth-code-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSecurityConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuling.config.indb.WebSecurityConfig" />
+      <module name="sso-auth-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.config.indb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="tulingvip0910-ms-security" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tulingvip09-ms-alibaba-order-gateway (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceServerOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tulingvip09-ms-alibaba-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.ResourceServerOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoApiGateWay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoApiGateWay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoApiGateWayJwt" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-api-gateway-jwt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoApiGateWayJwt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoAuthCodeJwtServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-auth-code-jwt-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoAuthCodeJwtServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoAuthCodeServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-auth-server (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoAuthCodeServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoAuthServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-auth-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoAuthServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoPortalCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-portal-code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoPortalCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoPortalPasswordApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-portal-password" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoPortalPasswordApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoProductServerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-product-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoProductServerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoProductServerJwtApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-product-jwt-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.SsoProductServerJwtApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tulingvip09MsAuthServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tulingvip09-ms-auth-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.Tulingvip09MsAuthServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tulingvip09MsAuthServerGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tulingvip09-ms-auth-server-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.Tulingvip09MsAuthServerGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tulingvip09MsCloudGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tulingvip09-ms-cloud-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.Tulingvip09MsCloudGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tulingvip09ResourceServerProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tulingvip09-ms-alibaba-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.Tulingvip09ResourceServerProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TulingvipMsAlibabaDaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tulingvip-ms-alibaba-dao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.TulingvipMsAlibabaDaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SsoApiGateWayJwt" />
+      <item itemvalue="Application.OrderApplication" />
+      <item itemvalue="Application.SsoAuthCodeServer" />
+      <item itemvalue="Application.WebSecurityConfig" />
+      <item itemvalue="Application.OrderApplication (1)" />
+      <item itemvalue="Spring Boot.Tulingvip09MsAuthServerApplication" />
+      <item itemvalue="Spring Boot.ResourceServerOrderApplication" />
+      <item itemvalue="Spring Boot.TulingvipMsAlibabaDaoApplication" />
+      <item itemvalue="Spring Boot.SsoPortalPasswordApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.SsoApiGateWay" />
+      <item itemvalue="Spring Boot.SsoAuthServer" />
+      <item itemvalue="Spring Boot.SsoProductServerApp" />
+      <item itemvalue="Spring Boot.Tulingvip09ResourceServerProductApplication" />
+      <item itemvalue="Spring Boot.Tulingvip09MsAuthServerGatewayApplication" />
+      <item itemvalue="Spring Boot.Tulingvip09MsCloudGatewayApplication" />
+      <item itemvalue="Spring Boot.SsoAuthCodeServer" />
+      <item itemvalue="Spring Boot.SsoPortalCodeApplication" />
+      <item itemvalue="Spring Boot.SsoAuthCodeJwtServer" />
+      <item itemvalue="Spring Boot.SsoProductServerJwtApp" />
+      <item itemvalue="Spring Boot.SsoApiGateWayJwt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderApplication (1)" />
+        <item itemvalue="Application.OrderApplication" />
+        <item itemvalue="Application.WebSecurityConfig" />
+        <item itemvalue="Application.SsoAuthCodeServer" />
+        <item itemvalue="Application.SsoApiGateWayJwt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52435de3-d271-4d42-aee5-3c93d2ab44e2" name="Default" comment="" />
+      <created>1577251685001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577251685001</updated>
+      <workItem from="1577251687807" duration="31938000" />
+      <workItem from="1577291205042" duration="12998000" />
+      <workItem from="1577348951680" duration="11365000" />
+      <workItem from="1577438794346" duration="7553000" />
+      <workItem from="1577459166366" duration="88000" />
+      <workItem from="1577459400058" duration="1373000" />
+      <workItem from="1577519275690" duration="35200000" />
+      <workItem from="1577709986287" duration="12614000" />
+      <workItem from="1577783550224" duration="15466000" />
+      <workItem from="1578562405733" duration="44484000" />
+      <workItem from="1578882515219" duration="5884000" />
+      <workItem from="1578893687157" duration="11436000" />
+      <workItem from="1578982982876" duration="1695000" />
+      <workItem from="1579003698729" duration="42794000" />
+      <workItem from="1579183591062" duration="1562000" />
+      <workItem from="1579258760524" duration="633000" />
+      <workItem from="1579399901904" duration="39443000" />
+      <workItem from="1579520087091" duration="9099000" />
+      <workItem from="1579570078987" duration="51374000" />
+      <workItem from="1580792673357" duration="1354000" />
+      <workItem from="1580969390553" duration="682000" />
+      <workItem from="1581173205951" duration="822000" />
+      <workItem from="1581257213386" duration="7515000" />
+      <workItem from="1583474685366" duration="3102000" />
+      <workItem from="1583478371718" duration="8348000" />
+      <workItem from="1583568104889" duration="26455000" />
+      <workItem from="1597586538526" duration="4718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="391271000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3084764" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04799107" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.088201605" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.34598213" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3298969" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25804722" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.1584318" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32975295" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.29023606" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Nl-Palette" order="8" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.29017857" />
+      <window_info anchor="bottom" id="Debug" order="6" visible="true" weight="0.12946428" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.13860252" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.08928572" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3298969" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24973147" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.1584318" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32975295" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-api-gateway/src/main/java/com/tuling/compent/exception/GateWayExceptionHandlerAdvice.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-api-gateway/src/main/java/com/tuling/compent/exception/CustomErrorWebExceptionHandler.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/TokenEndpoint.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/m2/repository/org/springframework/security/oauth/boot/spring-security-oauth2-autoconfigure/2.1.2.RELEASE/spring-security-oauth2-autoconfigure-2.1.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/resource/UserInfoTokenServices.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/m2/repository/org/springframework/security/oauth/boot/spring-security-oauth2-autoconfigure/2.1.2.RELEASE/spring-security-oauth2-autoconfigure-2.1.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/resource/UserInfoTokenServices.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/m2/repository/org/springframework/security/spring-security-web/5.1.5.RELEASE/spring-security-web-5.1.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/ui/DefaultLogoutPageGeneratingFilter.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-portal-code/src/main/java/com/tuling/interceptor/CookieLoginInterceptor.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-portal-code/src/main/java/com/tuling/controller/CallBackController.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-api-gateway/src/main/java/com/tuling/compent/filter/AuthenticationFilter.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/GateWayExceptionHandlerAdvice.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/GateWayExceptionHandlerAdvice.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-portal-password/src/main/java/com/tuling/interceptor/LoginInterceptor.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-portal-password/src/main/java/com/tuling/controller/LoginController.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-portal-password/src/main/java/com/tuling/controller/LoginController.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sso-portal-password/src/main/java/com/tuling/controller/PortalOrderController.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/GateWayExceptionHandlerAdvice.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/reactive/error/DefaultErrorWebExceptionHandler.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/reactive/error/DefaultErrorWebExceptionHandler.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order/src/main/java/com/tuling/ResourceServerOrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#420#421#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order/src/main/java/com/tuling/config/TulingUserDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStore.java" />
+    <entry file="jar://D:/m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/redis/JdkSerializationStrategy.java" />
+    <entry file="jar://D:/m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/redis/StandardStringSerializationStrategy.java" />
+    <entry file="jar://D:/m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/redis/BaseRedisTokenStoreSerializationStrategy.java" />
+    <entry file="jar://D:/m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStoreSerializationStrategy.java" />
+    <entry file="uml://JAVA/org.springframework.security.oauth2.provider.token.store.redis.RedisTokenStoreSerializationStrategy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.security.oauth2.provider.token.store.redis.RedisTokenStoreSerializationStrategy</OriginalElement>
+          <nodes>
+            <node x="79.0" y="0.0">org.springframework.security.oauth2.provider.token.store.redis.RedisTokenStoreSerializationStrategy</node>
+            <node x="255.0" y="255.0">com.tuling.config.indb.JsonSerializationStrategy</node>
+            <node x="0.0" y="255.0">org.springframework.security.oauth2.provider.token.store.redis.JdkSerializationStrategy</node>
+            <node x="62.5" y="85.0">org.springframework.security.oauth2.provider.token.store.redis.BaseRedisTokenStoreSerializationStrategy</node>
+            <node x="86.5" y="170.0">org.springframework.security.oauth2.provider.token.store.redis.StandardStringSerializationStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.security.oauth2.provider.token.store.redis.BaseRedisTokenStoreSerializationStrategy" target="org.springframework.security.oauth2.provider.token.store.redis.RedisTokenStoreSerializationStrategy">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.springframework.security.oauth2.provider.token.store.redis.StandardStringSerializationStrategy" target="org.springframework.security.oauth2.provider.token.store.redis.BaseRedisTokenStoreSerializationStrategy">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.tuling.config.indb.JsonSerializationStrategy" target="org.springframework.security.oauth2.provider.token.store.redis.StandardStringSerializationStrategy">
+              <point x="0.0" y="-17.5" />
+              <point x="376.5" y="230.0" />
+              <point x="327.25" y="230.0" />
+              <point x="80.25" y="17.5" />
+            </edge>
+            <edge source="org.springframework.security.oauth2.provider.token.store.redis.JdkSerializationStrategy" target="org.springframework.security.oauth2.provider.token.store.redis.StandardStringSerializationStrategy">
+              <point x="0.0" y="-17.5" />
+              <point x="117.5" y="230.0" />
+              <point x="166.75" y="230.0" />
+              <point x="-80.25" y="17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-385.0" y="-85.0" />
+          <SelectedNodes>
+            <node>com.tuling.config.indb.JsonSerializationStrategy</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway/src/main/java/com/tuling/config/role/domin/TulingUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway/src/main/java/com/tuling/config/TulingUserDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway/src/main/java/com/tuling/config/indb/AuthServerInDbConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="67" column="60" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/common/MDA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/Tulingvip09MsCloudGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order-gateway/src/main/java/com/tuling/OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order-gateway/src/main/java/com/tuling/controller/OrderInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway/src/main/java/com/tuling/Tulingvip09MsAuthServerGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/ErrorViewResolver.java" />
+    <entry file="jar://D:/m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/DefaultErrorViewResolver.java" />
+    <entry file="jar://D:/m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/ErrorMvcAutoConfiguration.java" />
+    <entry file="jar://D:/m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/reactive/error/DefaultErrorWebExceptionHandler.java" />
+    <entry file="jar://D:/m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/reactive/error/ErrorWebFluxAutoConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/sso-portal-code/src/main/java/com/tuling/interceptor/CookieLoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="21" selection-start-line="35" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.jar!/org/springframework/security/authentication/AuthenticationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9867">
+          <caret line="355" column="33" selection-start-line="355" selection-start-column="33" selection-end-line="355" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/Tulingvip09MsAuthServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order/src/main/java/com/tuling/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="13" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-alibaba-order/src/main/java/com/tuling/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" selection-start-line="18" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/TulingUserDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/inmemory/TulingAuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1165">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStoreSerializationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/indb/JsonSerializationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/indb/DbConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/indb/AuthServerInDbConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="54" column="59" selection-start-line="54" selection-start-column="59" selection-end-line="54" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-auth-server/src/main/java/com/tuling/config/indb/ModifyRedisTokenStoreBpp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="14" selection-start-line="14" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/config/RibbonConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/filter/AuthorizationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="73" column="33" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/common/TokenInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/filter/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/ErrorType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/GateWayException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/SystemErrorType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1914">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/ExceptionAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="61" column="56" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/GateWayExceptionHandlerAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1551">
+          <caret line="53" column="56" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/src/main/java/com/tuling/compent/exception/CustomErrorWebExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="18" column="83" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

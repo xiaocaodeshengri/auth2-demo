@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sso-auth-code-server" />
+        <module name="sso-order-server" />
+        <module name="tulingvip09-ms-alibaba-order (1)" />
+        <module name="tulingvip09-ms-alibaba-order-gateway" />
+        <module name="tulingvip09-ms-cloud-gateway" />
+        <module name="sso-portal-password (1)" />
+        <module name="tulingvip09-ms-cloud-gateway (1)" />
+        <module name="sso-api-gateway-jwt" />
+        <module name="sso-portal-password" />
+        <module name="tulingvip-ms-alibaba-dao" />
+        <module name="sso-product-jwt-server" />
+        <module name="tulingvip08-ms-cloud-gateway" />
+        <module name="tulingvip09-ms-auth-server (1)" />
+        <module name="tulingvip09-ms-auth-server-gateway" />
+        <module name="tulingvip09-ms-auth-server-gateway (1)" />
+        <module name="sso-product-server (1)" />
+        <module name="tulingvip09-ms-alibaba-order-gateway (1)" />
+        <module name="tulingvip09-ms-alibaba-product (1)" />
+        <module name="tulingvip08-ms-alibaba-gateway-product" />
+        <module name="sso-auth-code-jwt-server" />
+        <module name="sso-auth-code-server (1)" />
+        <module name="sso-portal-code" />
+        <module name="tulingvip02-ms-alibaba-ribbon-order" />
+        <module name="sso-auth-server (1)" />
+        <module name="sso-api-gateway (1)" />
+        <module name="sso-api-gateway" />
+        <module name="tulingvip09-ms-alibaba-order" />
+        <module name="sso-auth-server" />
+        <module name="sso-product-server" />
+        <module name="tulingvip09-ms-auth-server" />
+        <module name="tulingvip09-ms-alibaba-product" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sso-api-gateway" target="1.8" />
+      <module name="sso-api-gateway (1)" target="1.8" />
+      <module name="sso-api-gateway-jwt" target="1.8" />
+      <module name="sso-auth-code-jwt-server" target="1.8" />
+      <module name="sso-auth-code-server" target="1.8" />
+      <module name="sso-auth-code-server (1)" target="1.8" />
+      <module name="sso-auth-server" target="1.8" />
+      <module name="sso-auth-server (1)" target="1.8" />
+      <module name="sso-order-server" target="1.8" />
+      <module name="sso-portal-code" target="1.8" />
+      <module name="sso-portal-password" target="1.8" />
+      <module name="sso-portal-password (1)" target="1.8" />
+      <module name="sso-product-jwt-server" target="1.8" />
+      <module name="sso-product-server" target="1.8" />
+      <module name="sso-product-server (1)" target="1.8" />
+      <module name="tulingvip-ms-alibaba-dao" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-ribbon-order" target="1.8" />
+      <module name="tulingvip08-ms-alibaba-gateway-product" target="1.8" />
+      <module name="tulingvip08-ms-cloud-gateway" target="1.8" />
+      <module name="tulingvip09-ms-alibaba-order" target="1.8" />
+      <module name="tulingvip09-ms-alibaba-order (1)" target="1.8" />
+      <module name="tulingvip09-ms-alibaba-order-gateway" target="1.8" />
+      <module name="tulingvip09-ms-alibaba-order-gateway (1)" target="1.8" />
+      <module name="tulingvip09-ms-alibaba-product" target="1.8" />
+      <module name="tulingvip09-ms-alibaba-product (1)" target="1.8" />
+      <module name="tulingvip09-ms-auth-server" target="1.8" />
+      <module name="tulingvip09-ms-auth-server (1)" target="1.8" />
+      <module name="tulingvip09-ms-auth-server-gateway" target="1.8" />
+      <module name="tulingvip09-ms-auth-server-gateway (1)" target="1.8" />
+      <module name="tulingvip09-ms-cloud-gateway" target="1.8" />
+      <module name="tulingvip09-ms-cloud-gateway (1)" target="1.8" />
+      <module name="tulingvip0910-ms-security" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sso-api-gateway" options="-parameters" />
+      <module name="sso-api-gateway-jwt" options="-parameters" />
+      <module name="sso-auth-code-jwt-server" options="-parameters" />
+      <module name="sso-auth-code-server" options="-parameters" />
+      <module name="sso-auth-server" options="-parameters" />
+      <module name="sso-order-server" options="-parameters" />
+      <module name="sso-portal-code" options="-parameters" />
+      <module name="sso-portal-password" options="-parameters" />
+      <module name="sso-product-jwt-server" options="-parameters" />
+      <module name="sso-product-server" options="-parameters" />
+      <module name="tulingvip-ms-alibaba-dao" options="-parameters" />
+      <module name="tulingvip09-ms-alibaba-order" options="-parameters" />
+      <module name="tulingvip09-ms-alibaba-order-gateway" options="-parameters" />
+      <module name="tulingvip09-ms-alibaba-product" options="-parameters" />
+      <module name="tulingvip09-ms-auth-server" options="-parameters" />
+      <module name="tulingvip09-ms-auth-server-gateway" options="-parameters" />
+      <module name="tulingvip09-ms-cloud-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>

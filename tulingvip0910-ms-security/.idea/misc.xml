@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-alibaba-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip-ms-alibaba-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-alibaba-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip08-ms-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-auth-server-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip09-ms-alibaba-order-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-portal-password/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-product-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-order-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-auth-code-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-portal-code/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-auth-code-jwt-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-product-jwt-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-api-gateway-jwt/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
